@@ -1,4 +1,4 @@
-# Travelling_Salesman
+# Travelling Salesman Problem
 This repository contains Jupyter Notebooks with solutions for various Travelling Salesman Problems. Solutions are being searched with the branch-and-cut method.
 
 The problems to be solved are initially being created on a 100x100 grid with various number of locations. One or more locations are chosen as the start location and one location is chosen as the destination location.
