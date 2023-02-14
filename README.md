@@ -6,3 +6,5 @@ The problems to be solved are initially being created on a 100x100 grid with var
 Notebooks termed "Roundtrip" solve problems with one or more salesmen that return to their start location.
 
 Notebooks termed "Pickup_and_Delivery" solve problems where one or more salesmen pick up something at the locations and deliver it to a destination location (e.g., collecting garbage and delivering it to a landfill).
+
+![alt text](https://github.com/cschweimer/TravellingSalesmanProblem/Solutions/Roundtrip.jpg?raw=true)
