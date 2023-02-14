@@ -7,4 +7,4 @@ Notebooks termed "Roundtrip" solve problems with one or more salesmen that retur
 
 Notebooks termed "Pickup_and_Delivery" solve problems where one or more salesmen pick up something at the locations and deliver it to a destination location (e.g., collecting garbage and delivering it to a landfill).
 
-![Optional Text](../TravellingSalesmanProblem/blob/main/Solutions/Roundtrip.png.png)
+![Optional Text](../master/Solutions/Roundtrip.png)
