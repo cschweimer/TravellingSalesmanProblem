@@ -15,7 +15,7 @@ Notebooks termed "Pickup_and_Delivery" solve problems where one or more salesmen
 
 ![Roundtrip](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Results/Roundtrip.png)
 
------
+<hr>
 #### Solution for a Pickup_and_Deliver problem with one salesman and 25 locations (one start and one delivery location)
 
 ![Pickup_and_Deliver](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Results/Pickup_and_Deliver.png)
