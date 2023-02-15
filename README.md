@@ -10,6 +10,10 @@ Notebooks termed "Roundtrip" solve problems with one or more salesmen that retur
 
 Notebooks termed "Pickup_and_Delivery" solve problems where one or more salesmen pick up something at the locations and deliver it to a destination location (e.g., collecting garbage and delivering it to a landfill).
 
-### Optimisation of a roundtrip for one salesman with 30 locations
+### Solution for a roundtrip with one salesman and 30 locations (one start location)
 
-![Roundtrip](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Solutions/Roundtrip.png)
+![Roundtrip](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Results/Roundtrip.png)
+
+### Solution for a Pickup_and_Deliver problem with one salesman and 25 locations (one start and one delivery location)
+
+![Pickup_and_Deliver](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Results/Pickup_and_Deliver.png)
