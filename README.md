@@ -1,5 +1,7 @@
 # Travelling Salesman Problem
-This repository contains Jupyter Notebooks with solutions for various Travelling Salesman and Route Optimisation Problems. Implementations include Roundtrip for one or multiple salesmen, Pickup and Delivery to one location. 
+This repository contains Jupyter Notebooks with solutions for various Travelling Salesman and Route Optimisation Problems. Implementations include:
+- Roundtrip for one or multiple salesmen 
+- Pickup and Delivery to one location
 
 The problems to be solved are being created on a 100x100 grid with various number of locations. One or more locations are chosen as the start location and one location is chosen as the destination location.
 
@@ -16,6 +18,6 @@ Notebooks termed "Pickup_and_Delivery" solve problems where one or more salesmen
 ![Roundtrip](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Results/Roundtrip.png)
 
 -----
-#### Solution for a Pickup_and_Deliver problem with one salesman and 25 locations (one start and one delivery location)
+#### Solution for a Pickup_and_Delivery problem with one salesman and 25 locations (one start and one delivery location)
 
-![Pickup_and_Deliver](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Results/Pickup_and_Deliver.png)
+![Pickup_and_Delivery](https://github.com/cschweimer/TravellingSalesmanProblem/blob/main/Results/Pickup_and_Delivery.png)
